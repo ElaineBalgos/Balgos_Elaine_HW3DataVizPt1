@@ -1,4 +1,4 @@
-![Biathlon Olympic Sport for Winter!](biathlon.jpeg "Biathlon Category")
+![Biathlon Olympic Sport for Winter!](biathlon.png "Biathlon Category")
 
 # Biathlon Olympic Data Viz, 1924-2014
 
@@ -10,7 +10,7 @@ This is a basic _HTML / CSS /_ [Python 3](https://www.python.org/). If you want 
 
 
 ### Prerequisites
-Just an editor and Git!
+Illustrator, Photoshop and Git!
 
 
 ## Authors
