@@ -1,4 +1,4 @@
-![Biathlon Olympic Sport for Winter!](biathlon.png "Biathlon Category")
+![Biathlon Olympic Sport for Winter!](biathlon.png)
 
 # Biathlon Olympic Data Viz, 1924-2014
 
