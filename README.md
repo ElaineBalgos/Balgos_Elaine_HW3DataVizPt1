@@ -1,4 +1,4 @@
-![Biathlon Olympic Data Viz!](/images/biathlon.png "Biathlon Sport")
+![Biathlon Olympic Data Viz!](/images/biathlon.jpg "Biathlon Sport")
 
 # Biathlon Olympic Data Viz, 1924-2014
 
